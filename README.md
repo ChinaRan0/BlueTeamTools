@@ -4,9 +4,9 @@
 
 ## 最新版本
 
-蓝队工具箱-V7魔改版
+蓝队工具想-v8新春贺岁版（含v7到v8更新包）
 
-链接：https://www.123pan.com/s/qDVvjv-RZQod.html 提取码:xsya
+https://www.123pan.com/s/qDVvjv-X3Eod.html
 
 ## 贡献者名单
 
@@ -48,6 +48,7 @@ https://github.com/One-Fox-Security-Team/One-Fox-T00ls
 ## 历史版本下载地址
 
 蓝队工具想-v8新春贺岁版（含v7到v8更新包）
+
 https://www.123pan.com/s/qDVvjv-X3Eod.html
 
 蓝队工具箱-V7魔改版
