@@ -6,7 +6,7 @@
 
 蓝队工具想-v8新春贺岁版（含v7到v8更新包）
 
-https://www.123pan.com/s/qDVvjv-X3Eod.html
+https://pan.quark.cn/s/616ebf4443e6
 
 ## 贡献者名单
 
