@@ -49,7 +49,7 @@ https://github.com/One-Fox-Security-Team/One-Fox-T00ls
 
 蓝队工具想-v8新春贺岁版（含v7到v8更新包）
 
-https://www.123pan.com/s/qDVvjv-X3Eod.html
+https://pan.quark.cn/s/616ebf4443e6
 
 蓝队工具箱-V7魔改版
 
