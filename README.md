@@ -4,9 +4,9 @@
 
 ## 最新版本
 
-蓝队工具想-v9新春贺岁版（v2024.1）
+蓝队工具想-v10（v2024.2）
 
-https://pan.quark.cn/s/79bf7575af88
+https://pan.quark.cn/s/1cc226f6ffe8
 
 ## 贡献者名单
 
@@ -46,6 +46,10 @@ https://github.com/One-Fox-Security-Team/One-Fox-T00ls
 再次感谢您对本团队产品的关注和支持。我们将竭诚为您提供专业、可靠的服务，祝您使用愉快！
 
 ## 历史版本下载地址
+
+蓝队工具箱v10(v2024.2,含v9-v10更新包)
+
+https://pan.quark.cn/s/1cc226f6ffe8
 
 蓝队工具箱-v9(v2024.1)
 
