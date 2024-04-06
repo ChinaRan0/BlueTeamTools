@@ -6,9 +6,10 @@
 
 ## 最新版本
 
-蓝队工具箱-v10（v2024.2）
+蓝队工具箱v2024.4
 
-https://pan.quark.cn/s/1cc226f6ffe8
+https://pan.quark.cn/s/6d7856efd1d1
+
 
 ## 功能使用
 
