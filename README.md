@@ -10,6 +10,8 @@
 
 https://pan.quark.cn/s/6d7856efd1d1
 
+![image](https://github.com/ChinaRan0/BlueTeamTools/assets/88515720/0f2a94da-107c-49bb-a339-d8354aec8321)
+
 
 ## 功能使用
 
