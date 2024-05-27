@@ -79,6 +79,10 @@ https://pan.quark.cn/s/616ebf4443e6
 
 链接：https://pan.baidu.com/s/1T1THUTA0uI5j82l0Jebk_A 提取码：sno5
 
+## 项目对接
+
+如果您有蓝队相关项目需要对接，请添加我个人微信：Admin_Ran
+
 ## 关于反馈与建议
 
 反馈方式：
