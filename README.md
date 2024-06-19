@@ -92,9 +92,6 @@ https://www.wjx.cn/vm/YvfFmF2.aspx
 
 2.加我个人微信：Admin_Ran进行反馈
 
-
-## star
-
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=ChinaRan0/BlueTeamTools&type=Date)](https://star-history.com/#ChinaRan0/BlueTeamTools&Date)
