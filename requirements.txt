@@ -1,4 +1,0 @@
-Pillow==9.5.0
-ttkbootstrap==1.10.1
-requests
-ttkbootstrap
