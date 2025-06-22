@@ -1,0 +1,256 @@
+{
+  "常用工具": {
+    "directory": "tools/Utilities",
+    "tools": {
+      "cmd命令提示符": {
+        "path": "tools/Utilities/cmd/cmd.bat",
+        "desc": "cmd命令提示符"
+      },
+      "Everything": {
+        "path": "tools/Utilities/everything/Everything.exe",
+        "desc": "Everything,简洁易用,可快速找到计算机的各类文件,提升效率"
+      },
+      "ProcessHacker": {
+        "path": "tools/Utilities/ProcessHacker/x64/ProcessHacker.exe",
+        "desc": "ProcessHacker 是一款免费开源的系统进程管理工具，专为 Windows 系统设计，提供比系统自带任务管理器更强大的进程监控、资源分析和系统调试功能‌。"
+      },
+      "GetInfo": {
+        "path": "tools/Utilities/getinfo/GetInfo.exe",
+        "desc": "获取系统基本信息"
+      },
+      "Hash": {
+        "path": "tools/Utilities/hash/Hash.exe",
+        "desc": "Hash计算器"
+      },
+      "Burp精简版": {
+        "path": "tools/Utilities/burp精简版/run.bat",
+        "desc": "Burp老版本精简版"
+      },
+      "WinHex": {
+        "path": "tools/Utilities/winhex/WinHex.exe",
+        "desc": "WinHex-16进制编辑器"
+      },
+      "SeayPHP代码审计": {
+        "path": "tools/Utilities/seayphp代码审计/Seay.exe",
+        "desc": "SeayPHP代码审计工具"
+      },
+      "notepad++": {
+        "path": "tools/Utilities/notepad++/notepad++.exe",
+        "desc": "Notepad++文本编辑器"
+      },
+      "Ascll进制转换器": {
+        "path": "tools/Utilities/ascll进制转换器/turns4.exe",
+        "desc": "Ascll进制转换器，子网掩码计算器"
+      },
+      "二维码解析工具": {
+        "path": "tools/Utilities/二维码解析工具/erweima.exe",
+        "desc": "二维码解析工具"
+      },
+      "MobaXterm远程连接工具": {
+        "path": "tools/Utilities/mobaxterm远程连接工具/MobaXterm1_CHS1.exe",
+        "desc": "MobaXterm远程连接工具"
+      },
+      "内网通安装包": {
+        "path": "tools/Utilities/内网通安装包/start.bat",
+        "desc": "内网通安装包，用于简单内网通用，谨慎使用，有在野0dat"
+      },
+      "邮件钓鱼模拟器": {
+        "path": "tools/Utilities/邮件钓鱼模拟器/start.bat",
+        "desc": "邮件钓鱼模拟器"
+      },
+      "HuntBack_红队服务器探测工具": {
+        "path": "tools/Utilities/huntback_红队服务器探测工具/start.bat",
+        "desc": "HuntBack(反击狩猎)，用于攻防演练中，防守方对恶意ip进行web指纹扫描与识别"
+      }
+    }
+  },
+  "资产梳理": {
+    "directory": "tools/BT_info",
+    "tools": {
+      "OneForAll": {
+        "path": "tools/BT_info/OneForAll/oneforall/start.bat",
+        "desc": "OneForAll是一款强大的子域枚举工具。运行命令：python oneforall.py"
+      },
+      "资产梳理,暴露面检查": {
+        "path": "tools/BT_info/资产梳理暴露面检查/start.bat",
+        "desc": "资产梳理|暴露面检查，文章简介"
+      },
+      "fofaEX": {
+        "path": "tools/BT_info/fofaex/run.bat",
+        "desc": "fofa，客户端引擎"
+      },
+      "scaninfo端口扫描工具": {
+        "path": "tools/BT_info/scaninfo端口扫描工具/start.bat",
+        "desc": "scaninfo端口扫描工具"
+      },
+      "Golin等保核查工具": {
+        "path": "tools/BT_info/golin等保核查工具/start.bat",
+        "desc": "Golin等保核查工具，基线核查工具"
+      }
+    }
+  },
+  "流量分析": {
+    "directory": "tools/traffic_analysis_tools",
+    "tools": {
+      "超级解密工具": {
+        "path": "tools/traffic_analysis_tools/CTFTools/JiaMi/CTF-Tools.exe",
+        "desc": "用于编码解码，加密解密。打开稍微有点慢，等待即可。"
+      },
+      "蓝队分析取证工具箱": {
+        "path": "tools/traffic_analysis_tools/蓝队分析取证工具箱/start.bat",
+        "desc": "ABC_123大佬开发的，嘎嘎好使，请自行设置JAVA环境变量"
+      },
+      "Wireshark64": {
+        "path": "tools/traffic_analysis_tools/wireshark64/WiresharkPortable64.exe",
+        "desc": "Wireshark离线版本，不建议使用。"
+      },
+      "科来网络分析(安装包)": {
+        "path": "tools/traffic_analysis_tools/科来网络分析(安装包)/科来网络分析.exe",
+        "desc": "科来网络分析(安装包)"
+      },
+      "Fiddler抓包工具 汉化版本": {
+        "path": "tools/traffic_analysis_tools/fiddler抓包工具_汉化版本/Fiddler.exe",
+        "desc": "Fiddler抓包工具 汉化版本"
+      }
+    }
+  },
+  "应急响应": {
+    "directory": "tools/BT-Response",
+    "tools": {
+      "D盾": {
+        "path": "tools/BT-Response/Ddun/D_Safe_Manage.exe",
+        "desc": "『D盾_防火墙』专为IIS设计的一个主动防御的保护软件,以内外保护的方式 防止网站和服务器给入侵"
+      },
+      "Autoruns64": {
+        "path": "tools/BT-Response/autoruns64/Autoruns64.exe",
+        "desc": "Autoruns是一款实用工具，可以显示和修改系统启动或登录时运行的程序和驱动程序"
+      },
+      "tomcat-memshell-scanner": {
+        "path": "tools/BT-Response/tomcat-memshell-scanner/start.bat",
+        "desc": "tomcat-memshell-scanner，内存马扫描工具"
+      },
+      "LastActivityView": {
+        "path": "tools/BT-Response/lastactivityview/LastActivityView.exe",
+        "desc": "LastActivityView是一款 Windows系统日志分析工具，可以查看最近访问的文件"
+      },
+      "portexpert端口专家": {
+        "path": "tools/BT-Response/portexpert端口专家/portexpert.exe",
+        "desc": "portexpert端口专家，端口分析工具。"
+      },
+      "河马WebShell分析工具": {
+        "path": "tools/BT-Response/河马webshell分析工具/qhm.exe",
+        "desc": "河马WebShell分析工具"
+      },
+      "wscan深信服WebShell扫描工具": {
+        "path": "tools/BT-Response/wscan深信服webshell扫描工具/wscan.exe",
+        "desc": "wscan深信服WebShell扫描工具"
+      },
+      "annamineWanncry挖矿专杀工具": {
+        "path": "tools/BT-Response/annaminewanncry挖矿专杀工具/start.bat",
+        "desc": "annamineWanncry挖矿专杀工具"
+      },
+      "Sandbox沙盒运行工具": {
+        "path": "tools/BT-Response/sandbox沙盒运行工具/Sandboxie.exe",
+        "desc": "Sandbox沙盒运行工具"
+      },
+      "360急救箱": {
+        "path": "tools/BT-Response/360急救箱/start.bat",
+        "desc": "360系统急救箱是原360专杀工具大全，具有清除顽固木马，修复濒危系统的功能。"
+      },
+      "Linux日志检查脚本": {
+        "path": "tools/BT-Response/linux日志检查脚本/start.bat",
+        "desc": "Whoamifuck-Linux日志检查脚本"
+      },
+      "BrowsingHistoryView浏览器记录查看": {
+        "path": "tools/BT-Response/browsinghistoryview浏览器记录查看/BrowsingHistoryView.exe",
+        "desc": "BrowsingHistoryView是一款非常小巧实用免费软件工具，可以帮助您读取和查看不同Web浏览器的浏览历史。"
+      },
+      "evtxLogparse日志分析工具": {
+        "path": "tools/BT-Response/evtxlogparse日志分析工具/start.bat",
+        "desc": "evtxLogparse1是一款Windows日志分析工具，支持Windows 7、Windows Server 2008R2等等"
+      },
+      "shell-analyzer内存马查杀": {
+        "path": "tools/BT-Response/shell-analyzer内存马查杀/start.bat",
+        "desc": "shell-analyzer内存马查杀工具 嘎嘎好使"
+      },
+      "whohk-Linux应急响应脚本": {
+        "path": "tools/BT-Response/whohk-linux应急响应脚本/start.bat",
+        "desc": "whohk-Linux应急响应脚本"
+      },
+      "FireKylin应急响应工具": {
+        "path": "tools/BT-Response/firekylin应急响应工具/start.bat",
+        "desc": "FireKylin应急响应工具"
+      },
+      "d-eyes终端检测与响应工具": {
+        "path": "tools/BT-Response/d-eyes终端检测与响应工具/start.bat",
+        "desc": "D-Eyes 为 M-SEC 社区出品的一款终端检测与响应工具"
+      },
+      "Ashro_linux日志分析脚本": {
+        "path": "tools/BT-Response/ashro_linux日志分析脚本/start.bat",
+        "desc": "Ashro_linux日志分析脚本"
+      },
+      "火绒恶性木马专杀工具": {
+        "path": "tools/BT-Response/火绒恶性木马专杀工具/hrkill-1.0.0.104.exe",
+        "desc": "火绒恶性木马专杀工具"
+      },
+      "火绒剑": {
+        "path": "tools/BT-Response/火绒剑/start.bat",
+        "desc": "火绒剑是一款专为Windows平台设计的安全分析工具，属于反根工具（ARK）。它能够进行系统诊断、恶意代码处置和进程管理，常被安全专业人士和爱好者用于系统分析和安全问题处理。"
+      }
+    }
+  },
+  "日志分析": {
+    "directory": "tools/BT_log",
+    "tools": {
+      "dumpclass": {
+        "path": "tools/BT_log/dumpclass/start.bat",
+        "desc": "从java进程里dump出类的class文件的小工具"
+      },
+      "Sysmon监控系统日志": {
+        "path": "tools/BT_log/sysmon监控系统日志/start.bat",
+        "desc": "Sysmon是由 Windows Sysinternals出品的一款 Sysinternals系列中的工具.系统监视器 (Sysmon) 是 Windows系统服务和设备驱动程序，一旦安装在系统上，便会驻留在系统重新引导期间，以监视系统活动并将其记录到 Windows事件日志中。"
+      },
+      "windows日志一键分析工具": {
+        "path": "tools/BT_log/windows日志一键分析工具/windowslog.exe",
+        "desc": "windows日志一键分析工具"
+      },
+      "EmergencyWindows日志分析工具": {
+        "path": "tools/BT_log/emergencywindows日志分析工具/Emergency_response_tools.exe",
+        "desc": "EmergencyWindows日志分析工具"
+      }
+    }
+  },
+  "逆向分析": {
+    "directory": "tools/BT-Reverse",
+    "tools": {
+      "ApkIDE": {
+        "path": "tools/BT-Reverse/ApkIDE/ApkIDE.exe",
+        "desc": "APK逆向分析工具"
+      },
+      "XJad-JAVA反编译工具": {
+        "path": "tools/BT-Reverse/xjad-java反编译工具/XJad.exe",
+        "desc": "XJad-JAVA反编译工具"
+      },
+      "ILSpy .NET反编译工具": {
+        "path": "tools/BT-Reverse/ilspy__net反编译工具/ILSpy.exe",
+        "desc": "ILSpy .NET反编译工具"
+      },
+      "jd-gui JAVA反编译工具": {
+        "path": "tools/BT-Reverse/jd-gui_java反编译工具/jd-gui.exe",
+        "desc": "jd-gui JAVA反编译工具"
+      },
+      "PEiD 查壳工具": {
+        "path": "tools/BT-Reverse/peid_查壳工具/PEiD_原始.exe",
+        "desc": "PEiD（PEIdentifier）是一款著名的查壳工具，其功能强大，几乎可以侦测出所有的壳，其数量已超过470种PE文档的加壳类型和签名。"
+      },
+      "吾爱破解专用版Ollydbg": {
+        "path": "tools/BT-Reverse/吾爱破解专用版ollydbg/吾爱破解[LCG].exe",
+        "desc": "吾爱破解专用版Ollydbg"
+      },
+      "Pyinstaller逆向工具": {
+        "path": "tools/BT-Reverse/pyinstaller逆向工具/start.bat",
+        "desc": "Pyinstaller逆向工具"
+      }
+    }
+  }
+}
